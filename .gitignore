@@ -30,6 +30,6 @@
 *.exe
 *.out
 *.app
-vecTest.dSYM/Contents/Resources/Relocations/aarch64/vecTest.yml
-vecTest.dSYM/Contents/Resources/DWARF/vecTest
-vecTest.dSYM/Contents/Info.plist
+vec/vecTest.dSYM/Contents/Resources/Relocations/aarch64/vecTest.yml
+vec/vecTest.dSYM/Contents/Resources/DWARF/vecTest
+vec/vecTest.dSYM/Contents/Info.plist
