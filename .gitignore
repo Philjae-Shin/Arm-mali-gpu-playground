@@ -37,3 +37,7 @@ vec/vecTest.dSYM/Contents/Info.plist
 
 *.DS_Store
 *.idea
+.DS_Store
+.gradle/config.properties
+.idea/misc.xml
+.idea/workspace.xml
