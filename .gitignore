@@ -33,3 +33,7 @@
 vec/vecTest.dSYM/Contents/Resources/Relocations/aarch64/vecTest.yml
 vec/vecTest.dSYM/Contents/Resources/DWARF/vecTest
 vec/vecTest.dSYM/Contents/Info.plist
+
+
+*.DS_Store
+*.idea

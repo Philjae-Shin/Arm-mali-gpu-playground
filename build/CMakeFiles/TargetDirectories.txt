@@ -1,0 +1,8 @@
+/Users/henry_shin/Project/cpp/arm-mali/build/CMakeFiles/edit_cache.dir
+/Users/henry_shin/Project/cpp/arm-mali/build/CMakeFiles/rebuild_cache.dir
+/Users/henry_shin/Project/cpp/arm-mali/build/driver/CMakeFiles/MaliDriver.dir
+/Users/henry_shin/Project/cpp/arm-mali/build/driver/CMakeFiles/edit_cache.dir
+/Users/henry_shin/Project/cpp/arm-mali/build/driver/CMakeFiles/rebuild_cache.dir
+/Users/henry_shin/Project/cpp/arm-mali/build/app/CMakeFiles/MaliDriverApp.dir
+/Users/henry_shin/Project/cpp/arm-mali/build/app/CMakeFiles/edit_cache.dir
+/Users/henry_shin/Project/cpp/arm-mali/build/app/CMakeFiles/rebuild_cache.dir
