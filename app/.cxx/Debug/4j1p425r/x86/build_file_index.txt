@@ -1,1 +1,0 @@
-/Users/henry_shin/Project/cpp/arm-mali/app/src/main/cpp/CMakeLists.txt
